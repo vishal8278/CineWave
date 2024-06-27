@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CineWave/static/css/main.eb489c8f.css",
+    "main.js": "/CineWave/static/js/main.6474ec63.js",
+    "index.html": "/CineWave/index.html",
+    "main.eb489c8f.css.map": "/CineWave/static/css/main.eb489c8f.css.map",
+    "main.6474ec63.js.map": "/CineWave/static/js/main.6474ec63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb489c8f.css",
+    "static/js/main.6474ec63.js"
+  ]
+}
